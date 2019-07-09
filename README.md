@@ -1,5 +1,5 @@
 # comparator-network
-基于的mlpcnn的短文本匹配网络模型
+基于ComNet的短文本匹配网络模型
 
 
 1)	数据预处理
