@@ -1,4 +1,4 @@
-# comparator-network
+# comparator-network简称com-net
 基于的mlpcnn的短文本匹配网络模型
 
 
